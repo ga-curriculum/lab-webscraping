@@ -28,7 +28,7 @@ In this lab, you will use `BeautifulSoup` to scrape [https://pages.git.generalas
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lab |  Web Scraping Jupyter Notebook | [Link](./BeautifulSoup.ipynb)|
+| Lab |  Web Scraping Jupyter Notebook | [Link](./starter-code.ipynb)|
 
 ---
 
